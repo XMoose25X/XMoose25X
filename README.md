@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello there 👋
+### I'm Mathew Moose. I am a UPJ graduate 🎓 that currently works as a Software Engineering Manager at McKesson 🏢. I am still a developer 💻 at heart ❤️ and will always continue to make cool things 😎.
 
 <!--
 **XMoose25X/XMoose25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
