@@ -1,11 +1,18 @@
-## Hello there 👋
-### I'm Mathew Moose. I am a UPJ graduate 🎓 that currently works as a Software Engineering Manager at McKesson 🏢. I am still a developer 💻 at heart ❤️ and will always continue to make cool things 😎.
+## Hi 👋, I'm Mathew Moose! 🦌
+- 🎓 I'am a [UPJ](https://www.johnstown.pitt.edu/) graduate.
+- 🏢 I'm a Software Engineering Manager at [McKesson](https://www.mckesson.com/).
+- 👨‍👩‍👦 Father of one!
+- 🎮 Always playing video games.
+    * Playing through Metroid Dread! 
+- 📺 Enjoy watching anime! 
+    * Currently catching up on One Piece ☠!
+- ❤ Passion for development and making cool things.
+
+![GitHub followers](https://img.shields.io/github/followers/XMoose25X?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/XMoose25X?style=social)
+
 
 <!--
-**XMoose25X/XMoose25X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
