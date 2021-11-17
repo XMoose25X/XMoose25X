@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mathew Moose! 🦌
-- 🎓 I'am a [UPJ](https://www.johnstown.pitt.edu/) graduate.
+- 🎓 I'm a [UPJ](https://www.johnstown.pitt.edu/) graduate.
 - 🏢 I'm a Software Engineering Manager at [McKesson](https://www.mckesson.com/).
 - 👨‍👩‍👦 Father of one!
 - 🎮 Always playing video games.
@@ -23,5 +23,5 @@
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-	<strong>Consider giving my work a ⭐ to show some ❤️</strong>
+    <strong>Consider giving my work a ⭐ to show some ❤️</strong>
 </p>
