@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+	<strong>Consider giving my work a ⭐ to show some ❤️</strong>
+</p>
