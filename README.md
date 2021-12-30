@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mathew Moose! 🦌
 - 🎓 I'm a [UPJ](https://www.johnstown.pitt.edu/) graduate.
-- 🏢 I'm a Software Engineering Manager at [McKesson](https://www.mckesson.com/).
+- 🏢 I'm a Software Architect at [MEPPI](https://www.meppi.com/).
 - 👨‍👩‍👦 Father of one!
 - 🎮 Always playing video games.
     * Playing through Metroid Dread! 
