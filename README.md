@@ -3,9 +3,9 @@
 - 🏢 I'm a Software Architect at [MEPPI](https://www.meppi.com/).
 - 👨‍👩‍👦 Father of one!
 - 🎮 Always playing video games.
-    * Playing through Metroid Dread! 
-- 📺 Enjoy watching anime! 
-    * Currently catching up on One Piece ☠!
+    * Playing through [Kirby and the Forgotten Land](https://www.nintendo.com/store/products/kirby-and-the-forgotten-land-switch/)! 
+- 📺 Enjoys watching anime! 
+    * Currently catching up on [One Piece](https://myanimelist.net/anime/21/One_Piece) ☠!
 - ❤ Passion for development and making cool things.
 
 ![GitHub followers](https://img.shields.io/github/followers/XMoose25X?style=social)
