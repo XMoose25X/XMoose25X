@@ -8,8 +8,8 @@
     * Currently catching up on [One Piece](https://myanimelist.net/anime/21/One_Piece) ☠!
 - ❤ Passion for development and making cool things.
 
-![GitHub followers](https://img.shields.io/github/followers/XMoose25X?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/XMoose25X?style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/XMoose25X?style=social)](https://github.com/XMoose25X?tab=followers)  
+[![GitHub Stars](https://img.shields.io/github/stars/XMoose25X?style=social)](https://github.com/XMoose25X?tab=repositories&q=&type=&language=&sort=stargazers)
 
 
 <!--
