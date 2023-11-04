@@ -3,9 +3,10 @@
 - 🏢 I'm a Software Architect at [MEPPI](https://www.meppi.com/).
 - 👨‍👩‍👦 Father of one!
 - 🎮 Always playing video games.
-    * Playing through [Kirby and the Forgotten Land](https://www.nintendo.com/store/products/kirby-and-the-forgotten-land-switch/)! 
+    * Playing through [Super Mario Bros. Wonder](https://supermariobroswonder.nintendo.com/)!
 - 📺 Enjoys watching anime! 
-    * Currently catching up on [One Piece](https://myanimelist.net/anime/21/One_Piece) ☠!
+    * Caught up on [One Piece](https://myanimelist.net/anime/21/One_Piece) ☠!
+    * Watching Season 2 of [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)!
 - ❤ Passion for development and making cool things.
 
 [![GitHub Followers](https://img.shields.io/github/followers/XMoose25X?style=social)](https://github.com/XMoose25X?tab=followers)  
